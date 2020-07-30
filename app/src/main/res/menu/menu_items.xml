@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuVne"
+        android:title="VnExpress" />
+    <item
+        android:id="@+id/mnuThanhnien"
+        android:title="Thanh nien" />
+    <item
+        android:id="@+id/mnuVTC"
+        android:title="VTC" />
+    <item
+        android:id="@+id/mnu24h"
+        android:title="24h" />
+    <item
+        android:id="@+id/mnuVnnet"
+        android:title="Vietnamnet" />
+</menu>
